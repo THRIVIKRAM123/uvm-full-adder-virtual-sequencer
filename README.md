@@ -1,2 +1,7 @@
-# uvm-full-adder-virtual-sequencer
-This repository includes a basic UVM testbench with config, driver, monitor, sequencer, agent, environment, and test classes. It also features a virtual sequence and virtual sequencer to reduce path dependency, enabling better control, reusability, and scalability in complex verification setups.
+* Navigate to the `sim` directory.
+* Use `make help` to view available operations.
+* Use `make run_test` to compile and run the simulation.
+* Use `make report` to generate coverage reports.
+* Use `make cov` to view coverage reports in GUI mode.
+* Ensure Synopsys VCS is installed and licensed.
+* Refer to the Makefile for additional options or customizations.
